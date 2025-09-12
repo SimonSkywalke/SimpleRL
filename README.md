@@ -1,4 +1,4 @@
-# Easy RL：强化学习导论 精读笔记与代码实践
+# Simple RL：强化学习导论 精读笔记与代码实践
 
 本项目旨在将图灵奖得主 Richard S. Sutton 的经典著作《Reinforcement Learning: An Introduction》转化为清晰、易懂、适合初学者的系统性学习笔记。内容包括核心概念讲解、课后习题解答与配套 Python 代码实现，强调直观理解与动手实践。
 
